@@ -1,2 +1,0 @@
-open ReactNative;
-open ReactNavigation;

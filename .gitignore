@@ -9,3 +9,5 @@ npm-debug.*
 .bsb.lock
 lib
 .merlin
+.DS_Store
+.idea
